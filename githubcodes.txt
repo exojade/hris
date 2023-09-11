@@ -1,0 +1,9 @@
+git init
+git add --all
+git commit --all
+git push origin master
+git remote add origin http://192.168.5.190:3000/exojade/bac-system-v2.git
+
+
+change url
+git remote set-url origin http://apps.panabocity.gov.ph:3000/ikenn/tripticket.git

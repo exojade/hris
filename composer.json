@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "2.12.1",
+        "mikehaertl/php-pdftk": "^0.13.0",
+        "phpoffice/phpspreadsheet": "^1.25",
+        "fahriztx/zksoapphp": "^1.0"
+    }
+}

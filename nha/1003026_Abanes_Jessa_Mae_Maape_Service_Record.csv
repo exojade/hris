@@ -1,0 +1,2 @@
+﻿Date From,Date To,Position,Appointment Status,Salary,Department,Division,Leave Without Pay,Date Of Separation,Cause
+"DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023","DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023","TEXT (Required)","TEXT (Required)","NUMBER (Required)","TEXT (Required)","TEXT","NUMBER","DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023","TEXT"

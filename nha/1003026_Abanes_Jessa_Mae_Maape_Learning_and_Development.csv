@@ -1,0 +1,2 @@
+﻿Training ID,Date From,Date To,Hours,Service Obligation
+"NUMBER (Required)","DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023","DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023","NUMBER (Required)","DATE 'MM-DD-YYYY OR MM/DD/YYYY' (Required). Sample input: 08-11-2023"

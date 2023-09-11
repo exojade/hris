@@ -9,7 +9,7 @@
 	// database's username
     define("USERNAME", "root");
     // database's password
-    define("PASSWORD", "");
+    define("PASSWORD", "p@55word");
     define("PORT", "3308");
     define("HOST", "localhost");
     // database's server
